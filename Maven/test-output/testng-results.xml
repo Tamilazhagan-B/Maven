@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-14T19:26:17 IST" name="Default suite" finished-at="2023-03-14T19:27:14 IST" duration-ms="56836">
+    <groups>
+    </groups>
+    <test started-at="2023-03-14T19:26:17 IST" name="Default test" finished-at="2023-03-14T19:27:14 IST" duration-ms="56836">
+      <class name="SeleniumTest.OpenGoogle">
+        <test-method signature="openActiTime()[pri:0, instance:SeleniumTest.OpenGoogle@33990a0c]" started-at="2023-03-14T19:26:17 IST" name="openActiTime" finished-at="2023-03-14T19:27:14 IST" duration-ms="56521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openActiTime -->
+      </class> <!-- SeleniumTest.OpenGoogle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
